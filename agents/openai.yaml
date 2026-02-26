@@ -1,4 +1,0 @@
-interface:
-  display_name: "Postgres Setup"
-  short_description: "Install, configure, and use PostgreSQL."
-  default_prompt: "Use $postgre-skill to install PostgreSQL, create users/databases, and verify connectivity."
